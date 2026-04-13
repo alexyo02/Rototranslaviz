@@ -1,0 +1,5 @@
+{
+  "name": "RotoTranslaViz",
+  "description": "A 3D visualization tool for computing and viewing rigid body transformations (Rotation and Translation) in Fixed and Mobile frames.",
+  "requestFramePermissions": []
+}
